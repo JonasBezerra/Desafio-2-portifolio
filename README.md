@@ -26,9 +26,9 @@ Foi pedido para ser feito site estilo portfólio da rocketseat. Com alguns Objet
 
 #### Desafio 2-2
 
--[x] Adicionar um novo link no header chamado Sobre. E Essa página deverá mostrar informações referentes a Rocketseat.
- * logo da empresa
- * nome da empresa
- * breve descrição da empresa
- lista com as principais tecnologias utilizadas, utilizando a tag ```ul``` e ```li```
- * Links para as redes sociais da empresa (Github, Instagram e Facebook)
+- [x] Adicionar um novo link no header chamado Sobre. E Essa página deverá mostrar informações referentes a Rocketseat.
+    * logo da empresa
+    * nome da empresa
+    * breve descrição da empresa
+    lista com as principais tecnologias utilizadas, utilizando a tag ```ul``` e ```li```
+    * Links para as redes sociais da empresa (Github, Instagram e Facebook)
