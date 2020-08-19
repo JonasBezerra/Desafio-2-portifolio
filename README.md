@@ -10,5 +10,9 @@
     </a>
 </p> 
 <br>
-<h2 align="center">Módulo de Introdução a programação Web</h2></br>
+<h2 align="center">Módulo de Introdução a programação Web</h2>
 <p align="center">Desafio 2 - Construir um portfolio da rocketseat com modal e iframe</p> 
+<h3>✍🏼 Portifólio</h3>
+Foi pedido para ser feito site estilo portfólio da rocketseat. Com alguns Objetivos a serem alcançados
+
+### desafio 2-1
