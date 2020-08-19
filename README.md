@@ -10,7 +10,7 @@
     </a>
 </p> 
 <br>
-<h2 align="center">Módulo de Introdução a programação Web</h2>
+<h2 align="center">Módulo 2 Iniciando no Front-End</h2>
 <p align="center">Desafio 2 - Construir um portfolio da rocketseat com modal e iframe</p> 
 
 
@@ -19,4 +19,8 @@ Foi pedido para ser feito site estilo portfólio da rocketseat. Com alguns Objet
 
 #### desafio 2-1
 
-- [x] Html contendo um ***Favicon***
+- [x] Html Contendo um **Favicon**
+- [x] Um **header** com **links** para a comunidade, email e telefone.
+- [x] O **header** precisa ter um **espaçamento interno de 30px.**
+- [x] Os **links** devem ter **espaçamento de 30px** entre si. 
+
