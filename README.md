@@ -10,17 +10,25 @@
     </a>
 </p> 
 <br>
-<h2 align="center">Módulo 2 Iniciando no Front-End</h2>
+<h2 align="center">Desafio do Módulo 2 Iniciando no Front-End</h2>
 <p align="center">Desafio 2 - Construir um portfolio da rocketseat com modal e iframe</p> 
 
 
 ### ✍🏼 Portifólio
 Foi pedido para ser feito site estilo portfólio da rocketseat. Com alguns Objetivos a serem alcançados
 
-#### desafio 2-1
+#### Desafio 2-1
 
 - [x] Html Contendo um **Favicon**
 - [x] Um **header** com **links** para a comunidade, email e telefone.
 - [x] O **header** precisa ter um **espaçamento interno de 30px.**
 - [x] Os **links** devem ter **espaçamento de 30px** entre si. 
 
+#### Desafio 2-2
+
+-[x] Adicionar um novo link no header chamado Sobre. E Essa página deverá mostrar informações referentes a Rocketseat.
+ * logo da empresa
+ * nome da empresa
+ * breve descrição da empresa
+ lista com as principais tecnologias utilizadas, utilizando a tag ```ul``` e ```li```
+ * Links para as redes sociais da empresa (Github, Instagram e Facebook)
