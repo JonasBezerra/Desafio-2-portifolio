@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
+
+:root {
+    --color-green: #50fa7b;
+    --color-rocket: #7159c1;
+    --color-background: #181820;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #323236;
+    color: white;
+}
+
+.links{
+    box-sizing: border-box;
+    padding: 30px;
+    background: var(--color-background);
+    background: rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.links a{
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.links a:hover{
+    color: var(--color-green);
+    transition: color 600ms;
+}
+
+/*INFORMATION OF PAGE*/
+#main{
+    text-align: center;
+  
+}
+
+#main img{
+    border-radius: 50%;
+    width: 15%;
+    margin-top: 50px;
+    border: 5px solid var(--color-rocket);
+}
+#main h1{
+    padding:16px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#main p{
+    max-width: 850px;
+    margin: 0 auto; /*Alinhar o texto Novamente ao centro*/
+    /*(vertival) e (horizontal)*/
+    padding-bottom: 20px;
+    font-size: 16px;
+
+}
+
+
+#main ul{
+    font-size: 16px;
+    font-weight: bold;
+    opacity: 0.5;
+    line-height: 25px;
+    max-width: 100px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    list-style: none; /*Remove a bola de lista*/
+    
+}
+
+#footer a{
+    margin: 5px;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+#footer a:hover{
+    border: 2px solid var(--color-green);
+    transition: var(--color-green) 600ms;    
+}
+
+
+#footer a i{
+    font-size: 15px;
+}
