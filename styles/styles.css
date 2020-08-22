@@ -93,12 +93,50 @@ body{
 
 /* Grid dos cursos*/
 
-.grid-cursos{
+.cards{
+    max-width: 800px;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    text-align: center;
-    
+    justify-items: center; /*alinha no centro*/
+    gap: 30px;
 }
-.grid-cursos div{
-    
+.card{
+    text-align: center;
+    background-color: var(--color-background);
+    opacity: 0.9;
+    border-radius: 20px;
+}
+.card .card-image{
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.card-content {
+    margin: 10px auto;
+    text-align: center;
+    color: var(--color-font);
+ }
+ .card-info{
+    margin: 15px;
+    text-align: justify;
+    height: 15vh;
+    color: var(--color-font);
+}
+
+.card-price {
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    margin-bottom: 10px;    
+}
+
+.card-price p {
+    background-color: var(--color-main);
+    filter: brightness(80%);
+    border: 1px solid var(--color-green);
+    border-radius: 20px;
+    padding: 10px;
+    color: var(--color-font);
 }
