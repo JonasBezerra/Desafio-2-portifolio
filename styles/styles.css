@@ -90,3 +90,15 @@ body{
 #footer a i{
     font-size: 15px;
 }
+
+/* Grid dos cursos*/
+
+.grid-cursos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    
+}
+.grid-cursos div{
+    
+}
