@@ -93,6 +93,13 @@ body{
 
 /* Grid dos cursos*/
 
+h1{
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    
+}
+
 .cards{
     max-width: 800px;
     margin: 0 auto;
@@ -101,23 +108,33 @@ body{
     justify-items: center; /*alinha no centro*/
     gap: 30px;
 }
+
 .card{
     text-align: center;
     background-color: var(--color-background);
     opacity: 0.9;
     border-radius: 20px;
+    cursor: pointer;
 }
+.card:hover{
+    border: 1px solid var(--color-green);
+
+    transition: color 900ms;
+}
+
 .card .card-image{
     width: 90%;
     margin: 10px auto;
     padding: 10px;
     margin-bottom: 30px;
 }
+
 .card-content {
     margin: 10px auto;
     text-align: center;
     color: var(--color-font);
- }
+}
+
  .card-info{
     margin: 15px;
     text-align: justify;
